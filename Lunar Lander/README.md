@@ -22,10 +22,10 @@ This is how the rocket learns to land. The full video is 2 hours and 46 minutes 
 https://user-images.githubusercontent.com/125811483/233585481-f3be4c0a-5afe-45d3-87c8-f92633590425.mp4
 
 
-The highest reward until the loop stop is 302.24. Reached after 476 retries.
+This one of the example when the rocket sucessfully land.
 
 
-https://user-images.githubusercontent.com/125811483/233585448-5e7df117-edaf-481d-98e7-c43557f8636e.mp4
+https://user-images.githubusercontent.com/125811483/233586165-82da70c8-9be0-4f98-9696-464d2db01d8a.mp4
 
 
 
