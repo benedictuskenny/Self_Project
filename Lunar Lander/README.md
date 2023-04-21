@@ -17,10 +17,19 @@ This project is one of the assignments in the Machine Learning Specialization co
 
 # Videos
 This is how the rocket learns to land. The full video is 2 hours and 46 minutes long. To summarize how a rocket learns, this video was made every 20 epochs.
-https://user-images.githubusercontent.com/125811483/233581425-1e1cc132-463a-4d70-b979-bcc44c824814.mp4
+
+
+https://user-images.githubusercontent.com/125811483/233583686-256878b2-388d-4659-bcaf-61670c6b06b8.mp4
+
+
 
 The highest reward until the loop stop is 302.24. Reached after 476 retries.
-https://user-images.githubusercontent.com/125811483/233581677-8c81833f-22bf-4b79-90ad-48d26dd6bc7f.mp4
+
+
+
+https://user-images.githubusercontent.com/125811483/233583580-61bc8ffd-9ca4-442b-8d6f-d0adcd125d80.mp4
+
+
 
 # Reward
 This is the reward for the overall epoch.
