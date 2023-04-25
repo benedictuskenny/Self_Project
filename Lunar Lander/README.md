@@ -22,7 +22,7 @@ This is how the rocket learns to land. The full video is 2 hours and 46 minutes 
 https://user-images.githubusercontent.com/125811483/233585481-f3be4c0a-5afe-45d3-87c8-f92633590425.mp4
 
 
-This one of the example when the rocket sucessfully land.
+This is an example when the rocket is sucessfully land.
 
 
 https://user-images.githubusercontent.com/125811483/233586165-82da70c8-9be0-4f98-9696-464d2db01d8a.mp4
