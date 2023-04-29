@@ -1,18 +1,33 @@
 # Fake News Detection
 
-One of the most harmful aspects of social media applications is the spreading of fake news. That's why machine learning can be used to detect whether the news is fake or real based on the headline. You can download the dataset here: https://www.kaggle.com/hassanamin/textdb3/download
+One of the most harmful aspects of social media applications is the spreading of fake news. That's why machine learning can be used to detect whether the news is fake or real based on the headline. You can download the dataset here: https://www.kaggle.com/hassanamin/textdb3/download. In this project, I used basic machine learning with the Naive Bayes algorithm and NLP. 
 
+### News that I used to predict
+* https://www.nytimes.com/2023/04/28/us/politics/pence-2024-campaign-trump.html
+* https://www.nytimes.com/2023/04/28/us/politics/pence-2024-campaign-trump.html
 
-
-In this project, I used basic machine learning with the Naive Bayes algorithm and NLP. 
-
-## Naive Bayes Algorithm result
-Link to the news that I used to predict: https://www.nytimes.com/2023/04/28/us/politics/pence-2024-campaign-trump.html and https://www.nytimes.com/2023/04/28/us/politics/pence-2024-campaign-trump.html
+### Naive Bayes Algorithm result
 ![image](https://user-images.githubusercontent.com/125811483/235295224-d0948f17-1f48-4a6f-9f1f-7ca77fa0ca89.png)
 
+### Natural Language Processing (NLP) result
+In the NLP section, I created two models. The first neural network model consists of embeddings, bidirectional LSTM, dropout, and three dense layers. For the second neural network model, there is an additional layer of bidirectional LSTM. For the loss function, I chose to use binary cross-entropy and Huber loss. For the optimizer, I chose to use Adam and Stochastic Gradient Descent (SGD). Because there are a lot of combinations that can be made, I decided to create all eight combinations. In the end, there are three best combinations, which are:
 
+1. Model 1 with Adam Optimizer and Binary Crossentropy Loss (with a learning rate of about 0.005)
+2. Model 1 with Adam Optimizer and Huber Loss (with a learning rate of about 0.003)
+3. Model 2 with Adam Optimizer and Binary Crossentropy Loss (with a learning rate of about 0.002)
 
+Then, these three models will be trained until their accuracy reaches 92% using callbacks. These are the results.
 
+![image](https://user-images.githubusercontent.com/125811483/235295879-11787eb0-951e-423c-93fb-600dfcd7c150.png)
+![image](https://user-images.githubusercontent.com/125811483/235295886-66c2ea3d-3324-411d-8c2a-7870d98dab95.png)
+![image](https://user-images.githubusercontent.com/125811483/235295890-0933a693-5e68-4eea-8226-be996fbecef2.png)
+
+As we can see, these three models almost have the same accuracy. But all of them indicate overfitting.
+
+This is the final result for detecting fake news from the news headline:
+![image](https://user-images.githubusercontent.com/125811483/235295907-95d701ef-63b2-48d5-afcc-7666d7312bb3.png)
+
+### Additional Information
 Anyway, there is something interesting if you follow these steps :D
 
 1. Download "fake_news_vecs.tsv" and "fake_news_meta.tsv"
