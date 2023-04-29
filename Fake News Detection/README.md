@@ -2,6 +2,10 @@
 
 One of the most harmful aspects of social media applications is the spreading of fake news. That's why machine learning can be used to detect whether the news is fake or real based on the headline. You can download the dataset here: https://www.kaggle.com/hassanamin/textdb3/download. In this project, I used basic machine learning with the Naive Bayes algorithm and NLP. 
 
+### Word Cloud
+![image](https://user-images.githubusercontent.com/125811483/235296050-d37afad3-6369-4c39-b85a-9d3b54c93d53.png)
+
+
 ### News that I used to predict
 * https://www.nytimes.com/2023/04/28/us/politics/pence-2024-campaign-trump.html
 * https://www.nytimes.com/2023/04/28/us/politics/pence-2024-campaign-trump.html
@@ -18,9 +22,7 @@ In the NLP section, I created two models. The first neural network model consist
 
 Then, these three models will be trained until their accuracy reaches 92% using callbacks. These are the results.
 
-![image](https://user-images.githubusercontent.com/125811483/235295879-11787eb0-951e-423c-93fb-600dfcd7c150.png)
-![image](https://user-images.githubusercontent.com/125811483/235295886-66c2ea3d-3324-411d-8c2a-7870d98dab95.png)
-![image](https://user-images.githubusercontent.com/125811483/235295890-0933a693-5e68-4eea-8226-be996fbecef2.png)
+![image](https://user-images.githubusercontent.com/125811483/235296064-ce828ada-5382-4441-8135-8fc7660df4c4.png)
 
 As we can see, these three models almost have the same accuracy. But all of them indicate overfitting.
 
