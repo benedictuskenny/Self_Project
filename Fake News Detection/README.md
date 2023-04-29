@@ -3,7 +3,7 @@
 One of the most harmful aspects of social media applications is the spreading of fake news. That's why machine learning can be used to detect whether the news is fake or real based on the headline. You can download the dataset here: https://www.kaggle.com/hassanamin/textdb3/download. In this project, I used basic machine learning with the Naive Bayes algorithm and NLP. 
 
 ### Word Cloud
-![image](https://user-images.githubusercontent.com/125811483/235296050-d37afad3-6369-4c39-b85a-9d3b54c93d53.png)
+![image](https://user-images.githubusercontent.com/125811483/235296395-1482d24a-16dc-4cb1-858f-0a185a07e8b9.png)
 
 
 ### News that I used to predict
