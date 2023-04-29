@@ -28,6 +28,9 @@ As we can see, these three models almost have the same accuracy. But all of them
 
 This is the final result for detecting fake news from the news headline:
 ![image](https://user-images.githubusercontent.com/125811483/235295907-95d701ef-63b2-48d5-afcc-7666d7312bb3.png)
+![image](https://user-images.githubusercontent.com/125811483/235296084-37222ecb-1c72-4bf3-867a-db59d2ed1031.png)
+![image](https://user-images.githubusercontent.com/125811483/235296088-a7566cc1-5c28-41f2-84ef-7be2358d1075.png)
+
 
 ### Additional Information
 Anyway, there is something interesting if you follow these steps :D
