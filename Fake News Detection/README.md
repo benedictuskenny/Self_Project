@@ -6,7 +6,7 @@ One of the most harmful aspects of social media applications is the spreading of
 
 In this project, I used basic machine learning with the Naive Bayes algorithm and NLP. 
 
-Naive Bayes Algorithm result:
+## Naive Bayes Algorithm result
 Link to the news that I used to predict: https://www.nytimes.com/2023/04/28/us/politics/pence-2024-campaign-trump.html and https://www.nytimes.com/2023/04/28/us/politics/pence-2024-campaign-trump.html
 ![image](https://user-images.githubusercontent.com/125811483/235295224-d0948f17-1f48-4a6f-9f1f-7ca77fa0ca89.png)
 
