@@ -23,7 +23,7 @@ In the NLP section, I created two models. The first neural network model consist
 Then, these three models will be trained until their accuracy reaches 92% using callbacks. These are the results.
 ![image](https://user-images.githubusercontent.com/125811483/235296681-8a54c3e3-b574-41d4-94ce-b70eddd7f4bd.png)
 ![image](https://user-images.githubusercontent.com/125811483/235296686-be2effd5-7533-4d0e-937c-b5b40041ce01.png)
-![image](https://user-images.githubusercontent.com/125811483/235296689-9fa2fa6a-4efa-4179-b272-9484460023e3.png)
+![image](https://user-images.githubusercontent.com/125811483/235296706-0bb8f580-c48f-40dc-8f1e-34dead8b02a1.png)
 
 
 As we can see, these three models almost have the same accuracy. But all of them indicate overfitting.
