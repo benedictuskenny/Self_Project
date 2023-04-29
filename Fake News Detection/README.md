@@ -26,6 +26,7 @@ Then, these three models will be trained until their accuracy reaches 92% using 
 ![image](https://user-images.githubusercontent.com/125811483/235296706-0bb8f580-c48f-40dc-8f1e-34dead8b02a1.png)
 
 
+
 As we can see, these three models almost have the same accuracy. But all of them indicate overfitting.
 
 This is the final result for detecting fake news from the news headline:
