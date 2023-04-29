@@ -1,3 +1,5 @@
+# Fake News Detection
+
 One of the most harmful aspects of social media applications is the spreading of fake news. That's why machine learning can be used to detect whether the news is fake or real based on the headline. You can download the dataset here: https://www.kaggle.com/hassanamin/textdb3/download
 
 
