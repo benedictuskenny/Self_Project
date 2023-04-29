@@ -21,10 +21,9 @@ In the NLP section, I created two models. The first neural network model consist
 3. Model 2 with Adam Optimizer and Binary Crossentropy Loss (with a learning rate of about 0.002)
 
 Then, these three models will be trained until their accuracy reaches 92% using callbacks. These are the results.
-
-![image](https://user-images.githubusercontent.com/125811483/235296064-ce828ada-5382-4441-8135-8fc7660df4c4.png)
-![image](https://user-images.githubusercontent.com/125811483/235296084-37222ecb-1c72-4bf3-867a-db59d2ed1031.png)
-![image](https://user-images.githubusercontent.com/125811483/235296088-a7566cc1-5c28-41f2-84ef-7be2358d1075.png)
+![image](https://user-images.githubusercontent.com/125811483/235296365-da825f6a-d64e-4c39-962b-de93e2cfb262.png)
+![image](https://user-images.githubusercontent.com/125811483/235296361-f6e61814-c77b-4acd-96d6-fab7a6fec851.png)
+![image](https://user-images.githubusercontent.com/125811483/235296356-09cbbd7a-91e3-4357-8af4-83ea7633a328.png)
 
 As we can see, these three models almost have the same accuracy. But all of them indicate overfitting.
 
