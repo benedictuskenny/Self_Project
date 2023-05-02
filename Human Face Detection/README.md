@@ -84,5 +84,4 @@ Both of the models seem to have failed in the pictures that contain more than on
 ![image](https://user-images.githubusercontent.com/125811483/235616414-48ab0bf0-c0ef-4196-a174-f83d3e7a3d38.png)
 
 ### That's it!
-
-Any advices or recommendations would be much appreciated for my evaluation. Thanks in advance!
+I guess more data and another neural network architecture could improve the performance of detecting human faces. Also, if there any advices or recommendations would be much appreciated for my evaluation. Thanks in advance!
