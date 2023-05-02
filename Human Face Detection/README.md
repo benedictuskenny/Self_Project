@@ -41,7 +41,7 @@ And this is the training and validation loss plot from the second model.
 
 ![image](https://user-images.githubusercontent.com/125811483/235615066-5a5ce22e-233c-433e-8503-d6189764079f.png)
 
-As a result, there is overfitting for both the first and second models. For prediction, both models have their own performance. Sometimes both of them have good performances, but sometimes only one of them can detect the face well. These are examples.
+As a result, there is overfitting for both the first and second models. For prediction, both models have their own performance. Sometimes both of them have good performances, but sometimes only one of them can detect the face well. These are examples (the left one is predicted using model 1, and the right one is predicted using model 2). 
 
 * Both models have good performances.
   * First example
