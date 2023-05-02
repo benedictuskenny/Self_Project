@@ -50,3 +50,7 @@ Anyway, there is something interesting if you follow these steps :D
 6. Click anywhere to close it.
 
 7. Voila! You can search for your desired words (i.e., politics and California) with the search feature on the right side.
+
+### That's it!
+
+Any advices or recommendations would be much appreciated for my evaluation. Thanks in advance!
