@@ -45,30 +45,36 @@ As a result, there is overfitting for both the first and second models. For pred
 
 * Both models have good performances.
   * First example
+
   ![image](https://user-images.githubusercontent.com/125811483/235616320-8814e6d7-cb64-4d05-b32c-558f70cbe62e.png)
   ![image](https://user-images.githubusercontent.com/125811483/235616333-d08f554a-bcf8-43b7-b759-c28edc7ae052.png)
 
   * Second example
+  
   ![image](https://user-images.githubusercontent.com/125811483/235616356-399bcd5f-5a99-4086-8611-44a4b702c6c1.png)
   ![image](https://user-images.githubusercontent.com/125811483/235616377-4a20fcde-41b3-45b5-b279-5d8a12d63c33.png)
 
 
 * Model 1 is better.
   * First example
+  
   ![image](https://user-images.githubusercontent.com/125811483/235616733-e5d0a8d8-34cb-424c-a1db-32a906515f47.png)
   ![image](https://user-images.githubusercontent.com/125811483/235616753-0c620d1e-f60b-4ec8-bd55-c80b4890d853.png)
 
   * Second example (Both models are good, but the first model is slightly better)
+  
   ![image](https://user-images.githubusercontent.com/125811483/235616800-f7e28763-9cd5-4498-b751-0f6e3973a243.png)
   ![image](https://user-images.githubusercontent.com/125811483/235616818-2d56a957-1f95-4ed1-8ffc-4af36805ce42.png)
 
 
 * Model 2 is better.
   * First example
+  
   ![image](https://user-images.githubusercontent.com/125811483/235616602-a0314770-f27e-49c9-ab25-924d8c1528b6.png)
   ![image](https://user-images.githubusercontent.com/125811483/235616615-b29a91a8-6db8-40f9-94bd-6ad966ab547e.png)
 
   * Second example
+  
   ![image](https://user-images.githubusercontent.com/125811483/235616461-ff1ceddf-fde4-4dbf-817b-2edc8fc77dc2.png)
   ![image](https://user-images.githubusercontent.com/125811483/235616484-6ec6835d-2d49-4279-920e-ebcdd8f5d7a9.png)
 
