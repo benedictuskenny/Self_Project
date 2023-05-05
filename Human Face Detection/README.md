@@ -2,12 +2,12 @@
 
 Face detection is a computer technique that recognizes human faces in digital pictures and is used in a range of applications. Face detection is also the psychological process through which humans find and attend to faces in a visual context. Face detection could be considered a subset of object-class detection. The goal of object-class detection is to determine the positions and sizes of all objects in a picture that correspond to a specific class. This data project can be found at https://www.kaggle.com/datasets/sbaghbidi/human-faces-object-detection. This data has 2204 images and 1 CSV file. The CSV file contains the file name and the (x,y) coordinates where the face is. Note that this model might not be the best.
 
-### Data
+# Data
 
 This is what the last five images look like.
 ![image](https://user-images.githubusercontent.com/125811483/235614861-3efde3bc-9f83-475a-a2a3-4e16a4f8fee3.png)
 
-### Models
+# Models
 
 For the model, I created two CNN models with a binary cross-entropy loss function and an Adam optimizer.
 
@@ -31,7 +31,7 @@ The first model consists of:
 
 
 
-### Result
+# Result
 
 This is the training and validation loss plot from the first model.
 
@@ -83,5 +83,5 @@ Both of the models seem to have failed in the pictures that contain more than on
 ![image](https://user-images.githubusercontent.com/125811483/235616394-ea88905e-c89e-40d9-8c1b-10f82b947fdc.png)
 ![image](https://user-images.githubusercontent.com/125811483/235616414-48ab0bf0-c0ef-4196-a174-f83d3e7a3d38.png)
 
-### That's it!
+# That's it!
 I guess more data and another neural network architecture could improve the performance of detecting human faces. Also, if there any advices or recommendations would be much appreciated for my evaluation. Thanks in advance!
